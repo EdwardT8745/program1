@@ -1,4 +1,6 @@
 # program1
-COP4520 Programming Assignment 1/n
-Created the program in eclipse/n
+COP4520 Programming Assignment 1
+
+Created the program in eclipse
+
 Ran program in eclipse
